@@ -94,10 +94,10 @@ end
 ## Views
 
 ```javascript
-  <script type="text/javascript">
-    var editor = new UE.ui.Editor();
-    editor.render("your_textarea_id");
-  </script>
+<script type="text/javascript">
+  var editor = new UE.ui.Editor();
+  editor.render("your_textarea_id");
+</script>
 ```
 
 ## Contributing
