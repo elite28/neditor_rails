@@ -5,9 +5,8 @@ Rails wrapper for [neditor][1], which is a rich text editor based on baidu uedit
 
   [1]: https://github.com/notadd/neditor
 
-## Version
-current gem 0.1.0
-neditor 2.1.8
+## Neditor Version
+2.1.18
 
 ## Installation
 
